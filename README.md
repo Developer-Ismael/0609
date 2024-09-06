@@ -1,9 +1,9 @@
-[]()# Projeto aula 06-09
+# Projeto aula 06-09
 
-## HTML + CSS
-
+## HMTL + CSS
 Nessa aula tivemos alguns conceitos importantes sobre html + Css
+
 
 ## Autores
 
-- [@octokatherine](https://github.com/Developer-Ismael)
+- [@Ismael](https://github.com/Developer-Ismael)
