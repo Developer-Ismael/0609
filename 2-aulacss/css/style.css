@@ -2,7 +2,15 @@
     background-color: blue;
 } */
 
- p{
+ /*4 - External Css  */
+
+p{
     color: green;
     font-size: 40px;
+ }
+
+ .paragraph{
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
  }
